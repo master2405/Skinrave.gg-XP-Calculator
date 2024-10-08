@@ -2,7 +2,7 @@
 
 Welcome to the **SkinRave XP Calculator Extension**! This extension helps you calculate the xp to reach a certain level and how much to wager to achieve that level, on [skinrave.gg](https://skinrave.gg) Follow the instructions below to install the extension and start using it today!
 
-![SkinRave Extension Screenshot](usage.png)
+![SkinRave Extension Screenshot](usage.PNG)
 
 ## 📦 Installation
 
