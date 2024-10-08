@@ -7,12 +7,13 @@ Welcome to the **SkinRave Extension**! This extension enhances your experience o
 ### Prerequisites
 
 - A web browser that supports extensions (e.g., Google Chrome).
-- A `.rar` file of the SkinRave Extension (downloadable from the [releases section](#)).
+- A `.rar` file of the SkinRave Extension.
 
 ### Steps to Install
 
 1. **Download the Extension**  
-   Download the latest version of the SkinRave Extension in a `.rar` format from the [releases section](#).
+   Download the latest version of the SkinRave Extension in a `.rar` format from the link below:
+   [Download SkinRave Extension](https://github.com/master2405/Skinrave.gg-XP-Calculator/raw/refs/heads/main/skinraveggXP.rar)
 
 2. **Extract the .rar File**  
    Use a file extraction tool (like WinRAR or 7-Zip) to extract the contents of the `.rar` file. You should see a folder with the extension files.
@@ -55,4 +56,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 Happy gaming on SkinRave! 🎮
-
