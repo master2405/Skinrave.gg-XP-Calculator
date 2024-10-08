@@ -1,6 +1,6 @@
-# SkinRave Extension
+# SkinRave XP Calculator Extension
 
-Welcome to the **SkinRave Extension**! This extension enhances your experience on [skinrave.gg](https://skinrave.gg) by providing easy access to additional features. Follow the instructions below to install the extension and start using it today!
+Welcome to the **SkinRave XP Calculator Extension**! This extension helps you calculate the xp to reach a certain level and how much to wager to achieve that level, on [skinrave.gg](https://skinrave.gg) Follow the instructions below to install the extension and start using it today!
 
 ## 📦 Installation
 
@@ -43,11 +43,10 @@ Welcome to the **SkinRave Extension**! This extension enhances your experience o
 
 ## 🛠️ Usage
 
-Explore the features of the SkinRave Extension and customize your experience. If you have any questions or need assistance, feel free to check the [FAQ](#) or open an issue on this repository.
+Explore the features of the SkinRave XP Calculator Extension. 
 
-## 🤝 Contributing
-
-Contributions are welcome! If you'd like to contribute to the SkinRave Extension, please fork the repository and create a pull request.
+## 🤝 Discord
+If you have any questions or need assistance, feel free to join our discord [Discord](https://discord.gg/rwNa5hwqRe) or open an issue on this repository.
 
 ## 📄 License
 
@@ -55,4 +54,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Happy gaming on SkinRave! 🎮
+By Digs Team 🎮
